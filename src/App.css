@@ -1,0 +1,49 @@
+#root {
+  max-width: 1280px;
+  margin: 20px auto;
+  padding: 2rem;
+  text-align: left;
+  
+  
+}
+
+.question
+{
+  box-shadow: 0 0px 10px #eaeaea;
+  padding: 4rem;
+}
+
+h3
+{
+  margin-top: 40px;
+}
+
+.question label
+{
+  display: block;
+  
+  border-radius: 5px;
+  cursor: pointer;
+  transform: backgroud-color 0.3s;
+}
+
+.question label:hover
+{
+  background-color: #e0e0e0;
+}
+
+textarea
+{
+  width: 100%;
+  height: 16vh;
+  border-radius: 5px;
+}
+
+.button
+{
+  background: black;
+  width: 200px;
+  color: #fff;
+  float: right;
+  margin-top: 5px;
+}

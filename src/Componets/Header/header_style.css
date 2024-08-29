@@ -1,0 +1,26 @@
+﻿
+.container
+{
+    display: flex;
+    gap: 50px;
+    margin: 0px;
+}
+
+.nome, .matricula
+{
+   
+    text-align: left;
+    
+}
+
+.nome input 
+{
+    width: 350px;
+    height: 20px;
+}
+
+.matricula input
+{
+    width: 150px;
+    height: 20px;
+}
